@@ -1,0 +1,6 @@
+{
+  "name": "Pathankot District Swimming Association",
+  "description": "Official portal of the Pathankot District Swimming Association (PDSA). Features district championship registrations, meet schedules, hall of fame, news, and official records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
